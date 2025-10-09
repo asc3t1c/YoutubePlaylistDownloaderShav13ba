@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/python
+# 2025 by nu11secur1ty
+# O's support Ubuntu
 
 import os
 import shutil

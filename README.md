@@ -24,7 +24,9 @@ A **Python-based YouTube Playlist Downloader** that allows users to download ent
 
 - Python 3.10+ installed  
 - FFmpeg installed (or placed in a folder `ffmpeg/bin` next to the script)
-
+- Get FFmpeg ZIP from [link](https://www.gyan.dev/ffmpeg/builds/)
+- Extract all FFmpeg `EXE` file in the root dir of the program.
+ 
 **Install Python dependencies:**
 
 ```bash

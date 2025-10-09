@@ -10,7 +10,7 @@ pip install yt-dlp tqdm
 ```
 3️⃣ Run the program
 ```python
-# Make the script executable
+# Make the program executable
 chmod +x youtube_playlist_downloader_linux.py
 ./youtube_playlist_downloader_linux.py
 ```

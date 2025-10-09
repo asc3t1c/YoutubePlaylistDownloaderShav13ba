@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# 2025 by nu11secur1ty
+# O's support Windows 10,11
 import os
 import shutil
 import yt_dlp

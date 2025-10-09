@@ -1,4 +1,4 @@
-# 🎬 YoutubePlaylistDownloaderShav13ba (Final Edition)
+# 🎬 YoutubePlaylistDownloader - Shav13ba (Final Edition)
 
 A **Python-based YouTube Playlist Downloader** that allows users to download entire playlists in **MP4 (video)** or **MP3 (audio)** formats, choose quality, and automatically organize files into **Videos** or **Music** folders.  
 
